@@ -1,0 +1,2 @@
+# gdcoin
+Gd coin project
